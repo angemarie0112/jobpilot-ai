@@ -10,11 +10,15 @@ Built with **Laravel, Vue.js, TypeScript, FastAPI, PostgreSQL, and Google Gemini
 
 ---
 
-## 🎥 Demo
+## 🎥 Live Project Demonstration
 
-A complete walkthrough of JobPilot AI will be available soon.
+Watch a complete walkthrough of JobPilot AI, showcasing its main features, AI-powered job matching, tailored CV generation, personalized cover letters, and job application tracking.
 
-**▶ [Watch the Demo](YOUR_YOUTUBE_VIDEO_LINK)**
+### ▶️ [Watch the Full Demo on YouTube](https://youtu.be/4Y5NT7Ur58Q)
+
+[![JobPilot AI — Full Project Demo](docs/screenshots/dashboard.png)](https://youtu.be/4Y5NT7Ur58Q)
+
+*Click the image above to watch the demonstration.*
 
 ---
 
