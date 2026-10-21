@@ -16,10 +16,6 @@ Watch a complete walkthrough of JobPilot AI, showcasing its main features, AI-po
 
 ### ▶️ [Watch the Full Demo on YouTube](https://youtu.be/4Y5NT7Ur58Q)
 
-[![JobPilot AI — Full Project Demo](docs/screenshots/dashboard.png)](https://youtu.be/4Y5NT7Ur58Q)
-
-*Click the image above to watch the demonstration.*
-
 ---
 
 ## ✨ Key Features
